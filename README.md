@@ -5,14 +5,14 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 
 ## Getting Started / 어떻게 시작하나요?
 
-이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
+Never stop!.exe 파일로 시작하면 됩니다.
 
 ### Prerequisites / 선행 조건
 
 아래 사항들이 설치가 되어있어야합니다.
 
 ```
-예시
+없음.
 ```
 
 ### Installing / 설치
@@ -20,7 +20,7 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
 
 ```
-예시
+Unity
 ```
 
 ## Running the tests / 테스트의 실행
