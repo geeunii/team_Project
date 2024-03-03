@@ -28,10 +28,7 @@
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
-
+| Unity |
 <br>
 
 ## 구현 기능
